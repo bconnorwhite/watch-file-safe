@@ -1,5 +1,7 @@
 <div align="center">
-  <h1>watch-file-safe</h1>
+  <a href="https://github.com/bconnorwhite/write-file-safe">
+    <img alt="write-file-safe" src="assets/header.svg" />
+  </a>
   <a href="https://npmjs.com/package/watch-file-safe">
     <img alt="NPM" src="https://img.shields.io/npm/v/watch-file-safe.svg">
   </a>
@@ -90,8 +92,11 @@ type Watcher = {
 
 [MIT](https://opensource.org/licenses/MIT)
 
+<br />
+
 ## Related Packages
 
+- [fs-safe](https://www.npmjs.com/package/fs-safe): A simple fs wrapper that doesn't throw
 - [watch-dir-safe](https://www.npmjs.com/package/watch-dir-safe): Watch a directory for changes
 - [read-file-safe](https://www.npmjs.com/package/read-file-safe): Read files without try catch
 - [write-file-safe](https://www.npmjs.com/package/write-file-safe): Write files, and parent directories if necessary
